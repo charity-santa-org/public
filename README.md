@@ -2,4 +2,4 @@
 
 HO-HO-HO！ メリークリスマス！！
 
-https://charity-santa.com
+https://www.charity-santa.com
