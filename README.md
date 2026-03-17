@@ -46,6 +46,34 @@ https://sharecake.charity-santa.com/
 
 <br><br>
 
+# その他
+
+### サンタクロースからの手紙
+
+https://letter.charity-santa.com/
+
+### シェアケーキサポート
+
+https://sharecake-monthlysupport.charity-santa.com/
+
+### シェアシネマ
+
+https://sharecinema.charity-santa.com/
+
+### Santa Mother's Dream
+
+https://lp.charity-santa.com/smd
+
+### ブックサンタサポート
+
+https://lp.charity-santa.com/booksanta
+
+### ほくほく通信
+
+https://hokuhoku.charity-santa.com/
+
+<br><br>
+
 ## Twitter
 
 https://x.com/charitysanta14

@@ -24,6 +24,14 @@ ECS Fargate上でLaravelアプリケーションを運用しています。
 
 AWS Lambda + Serverless Framework (Node.js) で構成。LINE Bot連携やKintone連携に利用。
 
+### ランディングページ（ペライチ）
+
+サンタクロースからの手紙(`letter`)、シェアケーキサポート(`sharecake-monthlysupport`)、シェアシネマ(`sharecinema`)、Santa Mother's Dream / ブックサンタサポート(`lp`) などのサブドメインで運用。
+
+### ブログ（Ameba Ownd）
+
+ほくほく通信(`hokuhoku`) で運用。
+
 ## 技術スタック
 
 ### 言語・フレームワーク
@@ -70,6 +78,8 @@ AWS Lambda + Serverless Framework (Node.js) で構成。LINE Bot連携やKintone
 | SendGrid | メール配信 |
 | Pay.jp | 決済 |
 | LINE | Bot連携・通知 |
+| ペライチ | ランディングページ |
+| Ameba Ownd | ブログ |
 
 ### 開発ツール・CI/CD
 
