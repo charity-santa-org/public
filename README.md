@@ -8,7 +8,6 @@
 
 ![image](https://github.com/user-attachments/assets/42bdbbb5-0faa-45fa-a4fc-368e50276fdb)
 
-
 ### NPO法人チャリティーサンタ 公式サイト
 
 https://www.charity-santa.com
@@ -56,4 +55,11 @@ https://x.com/charitysanta14
 https://www.instagram.com/charity__santa/
 
 ## YouTube
+
 https://www.youtube.com/c/charitysanta
+
+<br><br>
+
+## Web技術概要
+
+**[TECH_OVERVIEW.md](TECH_OVERVIEW.md)**
