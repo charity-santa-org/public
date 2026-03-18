@@ -52,10 +52,10 @@ AWS Lambda + Serverless Framework (Node.js) で構成。LINE Bot連携やKintone
 | コンピューティング | ECS Fargate | WordPress・Laravelのコンテナ実行 |
 | コンピューティング | Lambda | サーバーレスAPI |
 | データベース | Aurora MySQL 8.0 Serverless v2 | RDB |
-| ストレージ | S3 | 静的ファイル・ログ・Terraform state |
+| ストレージ | S3 | 静的ファイル・ログ |
 | ストレージ | EFS | WordPressコンテナ間の共有ファイルストレージ |
 | ストレージ | ECR | コンテナイメージレジストリ |
-| ネットワーク | VPC | 3AZ構成（public / private / database subnets） |
+| ネットワーク | VPC | Multi-AZ構成 |
 | ネットワーク | ALB | Application Load Balancer |
 | ネットワーク | Route 53 | DNS管理 |
 | ネットワーク | CloudFront | CDN配信 |
